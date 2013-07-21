@@ -6,10 +6,15 @@ It was programmed in C++ and we used OpenGL API.
 
 
 How to run:
+
 (OpenGL API is required (GL/glut.h))
+
 At 'src' folder there is a Makefile.
+
 To compile --> make all
+
 To clean   --> make clean
+
 After compilation run --> ./pacman
 
 Notes:
